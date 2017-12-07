@@ -2,5 +2,5 @@
 def display_board
   puts "A Tic Tac Toe Board"
   board = ["  ", " | ", "  ", " | "]
-  puts board
+  print board
 end
